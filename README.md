@@ -1,4 +1,4 @@
-# Semantic_Segmentation_with_UNET
+#Test_Task_Semantic_Segmentation_with_UNET
 # Data
 Data loaded from [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018/data). In my case, I used stage1_train.zip which contains training set images(images and annotated masks) and stage1_test.zip  which contains test set images. preprocessing.py will create X_train, Y_train, X_test tht used to train model. One example:
 ![example1](https://user-images.githubusercontent.com/71394662/93486818-4b36e000-f90d-11ea-9a88-ff27724b0c17.png)
