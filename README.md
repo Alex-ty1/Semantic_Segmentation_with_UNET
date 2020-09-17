@@ -9,7 +9,7 @@ Data loaded from [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-
 ![image](https://gabe.smedresman.zone/content/images/2019/06/u-net-architecture.png) 
 
 # Train
-The model is trained for 36 epochs. After 36 epochs, calculated loss funcition is ~0.0708 and dece_coef is ~0.748%. For Dice set smooth factor = 1e-6.
+The model is trained for 36 epochs. After 36 epochs, calculated loss funcition is ~0.066 and dece_coef is ~0.764%. For Dice set smooth factor = 1e-6.
 
 ![image2](https://user-images.githubusercontent.com/71394662/93488261-d5337880-f90e-11ea-92e4-849d1df691b7.png)
 
