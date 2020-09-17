@@ -15,3 +15,12 @@ The model is trained for 36 epochs. After 36 epochs, calculated loss funcition i
 
 # Test
 
+The result of the model work on test data (X_test)
+
+
+![Image3](https://user-images.githubusercontent.com/71394662/93516214-636d2600-f932-11ea-8700-0a5e9ee201cd.png)
+
+# Implementation
+ 1. Create Python 3.6 + environment and install all requirements from requirements.txt
+ 2. Download data (download stage1_train.zip, stage1_test.zip and unpack in the data folder)
+ 3. Run load_data.ip 
