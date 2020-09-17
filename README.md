@@ -23,4 +23,4 @@ The result of the model work on test data (X_test)
 # Implementation
  1. Create Python 3.6 + environment and install all requirements from requirements.txt
  2. Download data (download stage1_train.zip, stage1_test.zip and unpack in the data folder)
- 3. Run load_data.ip 
+ 3. Run preprocessing.ipynb -> model_unet.ipynb -> train.ipynb -> predict_masks.ipynb. 
