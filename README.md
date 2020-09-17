@@ -13,3 +13,5 @@ The model is trained for 36 epochs. After 36 epochs, calculated loss funcition i
 
 ![image2](https://user-images.githubusercontent.com/71394662/93488261-d5337880-f90e-11ea-92e4-849d1df691b7.png)
 
+# Test
+
